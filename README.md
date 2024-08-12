@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Webpack plugin that automatically adds alt text to <img> elements in HTML output and injects JavaScript to fetch alt text for dynamically loaded images, enhancing accessibility and SEO.
+A Webpack plugin that automatically adds alt text to `<img>` elements in HTML output and injects JavaScript to fetch alt text for dynamically loaded images, enhancing accessibility and SEO.
 
 ## Features
 
