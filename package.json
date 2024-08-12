@@ -1,0 +1,33 @@
+{
+  "name": "img-alt-text-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack plugin that automatically adds alt text to <img> elements in HTML output and injects JavaScript to fetch alt text for dynamically loaded images, enhancing accessibility and SEO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam1git/img-alt-text-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "accessibility",
+    "seo",
+    "alt-text",
+    "image",
+    "img"
+  ],
+  "author": "sam1git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam1git/img-alt-text-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/sam1git/img-alt-text-webpack-plugin#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "jsdom": "^24.1.1",
+    "webpack": "^5.93.0"
+  }
+}
